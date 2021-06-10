@@ -1,16 +1,21 @@
-<!-- ### Hi there 👋
+# General information
 
-<!--
-**Finlay-Mitchell/Finlay-Mitchell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 16 year old software developer from England.
+I work in:
+* C/C++
+* C#
+* Java
+* HTML/CSS/Javascript
+* Arduino
+* Python
+* PHP
+And more!
 
-Here are some ideas to get you started:
+# Links
+[website](https://finlaymitchellml)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Discord bot website](https://finbot.finlaymitchell.ml)
+
+[Invite my Discord bot](https://bot.finlaymitchell.ml)
+
+[Join my Discord bot support server](https://server.finlaymitchell.ml)
